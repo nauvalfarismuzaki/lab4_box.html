@@ -20,5 +20,5 @@ sebuah elemen HTML.
 Untuk yang selanjutnya Clearfix ini digunakan untuk mengatur element setelah float element. Property clear digunakan untuk
 mengaturnya.
 
-![MENGATUR CLEARFIX ELEMENT](pitures/gambar2.png)
+![MENGATUR CLEARFIX ELEMENT](pictures/gambar2.png)
 <hr>
