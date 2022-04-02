@@ -22,3 +22,10 @@ mengaturnya.
 
 ![MENGATUR CLEARFIX ELEMENT](pictures/gambar2.png)
 <hr>
+
+3. ** Layout Sederhana **
+Lalu disini kita membaut layout senderhana yaitu kerangka yang mengatur penempatan tata letak sebuah elemen pada
+halaman web. Tata letak element seperti navigasi, header, tombol CTA (Call to Action), dan elemen
+lainnya pada halaman web, sehingga tampilan web dapat disesuaikan dengan desain yang ada.
+
+![LAYOUT](pictures/gambar4.png)
