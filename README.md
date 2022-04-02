@@ -39,3 +39,10 @@ lainnya pada halaman web, sehingga tampilan web dapat disesuaikan dengan desain 
 jadi Navigasi ini berfungsi Untuk menunjukan menu mana yang akan kita pilih, berikut untuk contohnya
 
 ![Navigasi](pictures/gambar6.png)
+
+5. **HERO PANEL**
+<br>
+
+selanjutnya saya akan menambahkan hero panel, berikut contohnya dibawah ini
+
+![HERO PANEL](pictures/gambar7.png)
