@@ -62,3 +62,10 @@ selanjutnya menambahkan element lain dalam sidebar.
 Selanjutnya mengatur tampilan footer. Tambahkan CSS untuk footer, berikut tampilannya.
 
 ![foooter](pictures/gambar9.png)
+
+8. **Menambahkan Elemen lainnya pada Main Content**
+<hr>
+
+berikut ini saya menambahkan element lainnya
+
+![Menambahkan Elemen lainnya pada Main Content](pictures/gambar10.png)
