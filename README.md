@@ -39,6 +39,7 @@ lainnya pada halaman web, sehingga tampilan web dapat disesuaikan dengan desain 
 jadi Navigasi ini berfungsi Untuk menunjukan menu mana yang akan kita pilih, berikut untuk contohnya
 
 ![Navigasi](pictures/gambar6.png)
+<hr>
 
 5. **HERO PANEL**
 <br>
@@ -46,3 +47,12 @@ jadi Navigasi ini berfungsi Untuk menunjukan menu mana yang akan kita pilih, ber
 selanjutnya saya akan menambahkan hero panel, berikut contohnya dibawah ini
 
 ![HERO PANEL](pictures/gambar7.png)
+<hr>
+
+6. ** Sidebar Widget**
+<br>
+
+selanjutnya menambahkan element lain dalam sidebar. 
+
+![sidebar widget](pictures/gambar8.png)
+
