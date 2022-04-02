@@ -7,7 +7,7 @@ Tugas Pertemuan 5
 | Mata Kuliah | Pemrograman Web |
 <hr>
 
-1. ** Membuat Box Element dan CSS Float Property **
+1. **Membuat Box Element dan CSS Float Property**
 Dilangkah awal ini kita membuat 
 dan CCS float property digunakan untuk
 membuat layout web dan mudah menentukan posisi atau letak
@@ -16,14 +16,14 @@ sebuah elemen HTML.
 ![MEMBUAT BOX ELEMENT DAN CSS FLOAT PROPERTY](pictures/gambar1.png)
 <hr>
 
-2. ** Mengatur Clearfix Element **
+2. **Mengatur Clearfix Element**
 Untuk yang selanjutnya Clearfix ini digunakan untuk mengatur element setelah float element. Property clear digunakan untuk
 mengaturnya.
 
 ![MENGATUR CLEARFIX ELEMENT](pictures/gambar2.png)
 <hr>
 
-3. ** Layout Sederhana **
+3. **Layout Sederhana**
 Lalu disini kita membaut layout senderhana yaitu kerangka yang mengatur penempatan tata letak sebuah elemen pada
 halaman web. Tata letak element seperti navigasi, header, tombol CTA (Call to Action), dan elemen
 lainnya pada halaman web, sehingga tampilan web dapat disesuaikan dengan desain yang ada.
