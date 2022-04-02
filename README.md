@@ -69,3 +69,11 @@ Selanjutnya mengatur tampilan footer. Tambahkan CSS untuk footer, berikut tampil
 berikut ini saya menambahkan element lainnya
 
 ![Menambahkan Elemen lainnya pada Main Content](pictures/gambar10.png)
+
+9.**Menambahkan Content Artikel**
+<hr>
+
+
+Selanjutnya membuat content artikel. Tambahkan HTML berikut pada main content.
+
+![Menambahkan Content Artikel](pictures/gambar11.png)
