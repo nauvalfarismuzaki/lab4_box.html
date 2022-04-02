@@ -33,6 +33,7 @@ lainnya pada halaman web, sehingga tampilan web dapat disesuaikan dengan desain 
 
 ![LAYOUT](pictures/gambar4.png)
 <hr>
+
 4. **Navigasi**
 <br>
 jadi Navigasi ini berfungsi Untuk menunjukan menu mana yang akan kita pilih, berikut untuk contohnya
