@@ -56,3 +56,9 @@ selanjutnya menambahkan element lain dalam sidebar.
 
 ![sidebar widget](pictures/gambar8.png)
 
+7. **Mengatur Footer**
+<hr>
+
+Selanjutnya mengatur tampilan footer. Tambahkan CSS untuk footer, berikut tampilannya.
+
+![foooter](pictures/gambar9.png)
