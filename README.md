@@ -49,7 +49,7 @@ selanjutnya saya akan menambahkan hero panel, berikut contohnya dibawah ini
 ![HERO PANEL](pictures/gambar7.png)
 <hr>
 
-6. ** Sidebar Widget**
+6. **Sidebar Widget**
 <br>
 
 selanjutnya menambahkan element lain dalam sidebar. 
